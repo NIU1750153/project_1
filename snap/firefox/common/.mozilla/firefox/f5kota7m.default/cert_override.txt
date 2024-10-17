@@ -1,4 +1,0 @@
-# PSM Certificate Override Settings file
-# This is a generated file!  Do not edit.
-gutierrez.itb:443:	OID.2.16.840.1.101.3.4.2.1	75:0A:77:8E:9C:66:E2:B2:02:91:FF:84:90:05:40:FE:AC:AE:7E:8C:47:18:61:21:96:7C:D9:E9:15:EA:93:E4	
-lidia.itb:443:	OID.2.16.840.1.101.3.4.2.1	75:0A:77:8E:9C:66:E2:B2:02:91:FF:84:90:05:40:FE:AC:AE:7E:8C:47:18:61:21:96:7C:D9:E9:15:EA:93:E4	

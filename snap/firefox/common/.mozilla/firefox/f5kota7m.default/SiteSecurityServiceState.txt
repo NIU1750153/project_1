@@ -1,4 +1,0 @@
-contile.services.mozilla.com	0	19684	1732300353665,1,0
-firefox.settings.services.mozilla.com	0	19684	1732300354110,1,0
-spocs.getpocket.com	0	19684	1763836608564,1,0
-incoming.telemetry.mozilla.org	0	19684	1732300354904,1,0
