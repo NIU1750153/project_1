@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/lidiapanosagutierrez/VBox_GAs_7.0.10/VBoxDarwinAdditionsUninstall.tool" added="2023-09-17T13:38:28.197744Z" modified="2023-09-17T13:38:28.197757Z" visited="2023-09-17T13:38:28.197747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-09-17T13:38:28.197750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lidiapanosagutierrez/VBox_GAs_7.0.10/VBoxLinuxAdditions.run" added="2023-09-17T13:38:34.437932Z" modified="2023-09-17T13:38:34.437936Z" visited="2023-09-17T13:38:34.437933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-09-17T13:38:34.437934Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/Downloads/FileZilla_3.66.1_x86_64-linux-gnu.tar.xz" added="2023-11-30T17:48:49.872664Z" modified="2023-11-30T17:49:26.186014Z" visited="2023-11-30T17:48:49.872665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-11-30T17:49:24.470083Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-30T17:49:26.186012Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/Downloads" added="2023-11-30T17:49:31.376640Z" modified="2023-11-30T17:49:31.376645Z" visited="2023-11-30T17:49:31.376641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-11-30T17:49:31.376643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/Pictures/Screenshots/Screenshot%20from%202023-12-13%2020-16-05.png" added="2023-12-13T19:16:05.816419Z" modified="2023-12-13T19:16:05.816426Z" visited="2023-12-13T19:16:05.816420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-12-13T19:16:05.816422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/Desktop/provaservidor.txt" added="2023-12-13T19:17:32.785889Z" modified="2023-12-13T19:17:33.421961Z" visited="2023-12-13T19:17:32.785890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2023-12-13T19:17:32.785891Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-12-13T19:17:33.421959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/pp.txt" added="2024-09-16T11:30:25.066321Z" modified="2024-09-19T09:54:37.257464Z" visited="2024-09-16T11:30:25.066321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-19T09:54:37.257463Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/Documents/pp2.txt" added="2024-09-16T11:39:39.991598Z" modified="2024-09-16T11:39:44.801118Z" visited="2024-09-16T11:39:39.991598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-16T11:39:44.801116Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/miscript.sh" added="2024-09-26T08:38:54.017891Z" modified="2024-09-26T08:38:54.017897Z" visited="2024-09-26T08:38:54.017892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-26T08:38:54.017895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/script.sh" added="2024-09-26T08:47:25.717319Z" modified="2024-10-14T11:41:41.034375Z" visited="2024-09-26T08:47:25.717320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-14T11:41:41.034374Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-10-14T11:41:40.389922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lidiapanosagutierrez/mitjana.sh" added="2024-09-26T09:49:58.790902Z" modified="2024-09-26T09:49:58.790909Z" visited="2024-09-26T09:49:58.790903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-26T09:49:58.790907Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

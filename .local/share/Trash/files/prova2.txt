@@ -1,0 +1,1 @@
+Prova 2 de transmissió de fitxers per scp. Lidia :) Des del servidor. 
